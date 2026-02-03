@@ -24,7 +24,6 @@ A complete implementation of a Multi-Layer Perceptron neural network built from 
 - [Results](#results)
 - [Requirements](#requirements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ##  Installation
 
